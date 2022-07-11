@@ -9,8 +9,8 @@ My goal is to develop testing knowlage and technical skills. On this site I woul
 * [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl), [TestLink](https://testlink.org/) - Test management tool used for project management, bug tracking and test management
 * [Postman](https://www.postman.com/) - Testing tool for REST API
 * [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
-* [Xmind](https://www.xmind.net/)pom - Mind mapping softwares
-* [POM Builder](https://chrome.google.com/webstore/detail/pom-builder-%E2%80%93-auto-genera/akcejfbfkkjnghlfngighgncolfaghco)bug - Auto-generate CSS/XPatrh locators
+* [XMind](https://www.xmind.net/) - Mind mapping softwares
+* [POM Builder](https://chrome.google.com/webstore/detail/pom-builder-%E2%80%93-auto-genera/akcejfbfkkjnghlfngighgncolfaghco)- Auto-generate CSS/XPatrh locators
 * [Bug Mangnet](https://chrome.google.com/webstore/detail/pom-builder-%E2%80%93-auto-genera/akcejfbfkkjnghlfngighgncolfaghco) - Exploratory testing assistant for Chrome and Firefox
 * [Figma](https://www.figma.com/) - Digital design and prototyping tool 
 
