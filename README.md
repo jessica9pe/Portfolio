@@ -18,8 +18,8 @@ My goal is to develop testing knowlage and technical skills. On this site I woul
 Junior:
 * SCRUM
 * ISTQB FL knowledge
-* knowledge of functional testing
-* knowledge of non-functional testing
+* Knowledge of functional testing
+* Knowledge of non-functional testing
 * Creating test cases
 * Reporting bugs
 * MS SQL
@@ -32,7 +32,7 @@ Junior:
 
 # Blogs
 * testerzy.pl
-* testuj.pl - Test, Bugs & Rock'n'Roll
+* testuj.pl 
 * remigiuszbednarczyk.pl
 * pwicherski.gitbook.io
 * testelka.pl
@@ -40,17 +40,18 @@ Junior:
 * cherry-it.pl
 
 # My scenario and test cases examples
-* Scenario and test cases for reserved.com (TestLink)
+* [Test cases for skleptest.pl](https://docs.google.com/spreadsheets/d/1Z09mu0vG2Y3aCGlb-_B8dLA-Gu6cZysSaEFsHPKQgH8/edit?usp=sharing)
+* [Scenario and test cases for reserved.com (TestLink)](https://drive.google.com/file/d/14R_rPSqYzH-Yavt79rvXamh23rsc2m_W/view?usp=sharing)
 
 # My bug reports examples
-* Bugs report for skleptest.pl (Excel)
-* Bugs report for automationpractice.com (Jira)
+* [Bugs report for skleptest.pl (Excel)](https://docs.google.com/spreadsheets/d/1Z09mu0vG2Y3aCGlb-_B8dLA-Gu6cZysSaEFsHPKQgH8/edit?usp=sharing)
+* Bugs report for automationpractice.com (Jira) - in progress
 
 # My mind map examples
-* Mind map for skleptest.pl (XMind)
+* [Mind map for skleptest.pl (XMind)](https://drive.google.com/drive/folders/1sBKLEarhf9eUDThaR1bpeMfm8PiB2XXj?usp=sharing)
 
 # My automated test scripts
-* automated test scripts (Selenium IDE) for saucedemo.com
+* [Automated test scripts (Selenium IDE) for saucedemo.com]()
 
 
 
