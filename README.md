@@ -48,7 +48,7 @@ Junior:
 * Bugs report for automationpractice.com (Jira) - in progress
 
 # My mind map examples
-* [Mind map for skleptest.pl (XMind)](https://drive.google.com/drive/folders/1sBKLEarhf9eUDThaR1bpeMfm8PiB2XXj?usp=sharing)
+* [Mind map for skleptest.pl (XMind)](https://drive.google.com/file/d/1soEgMBl_t4VwxeUmYz-YYDtTjYfr8RxO/view?usp=sharing)
 
 # My automated test scripts
 * [Automated test scripts (Selenium IDE) for saucedemo.com](https://drive.google.com/file/d/15LpK7jS_CjTt0KXchOZjDsLYQhcjzI7W/view?usp=sharing)
