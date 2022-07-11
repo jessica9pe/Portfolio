@@ -51,7 +51,7 @@ Junior:
 * [Mind map for skleptest.pl (XMind)](https://drive.google.com/drive/folders/1sBKLEarhf9eUDThaR1bpeMfm8PiB2XXj?usp=sharing)
 
 # My automated test scripts
-* [Automated test scripts (Selenium IDE) for saucedemo.com]()
+* [Automated test scripts (Selenium IDE) for saucedemo.com](https://drive.google.com/file/d/15LpK7jS_CjTt0KXchOZjDsLYQhcjzI7W/view?usp=sharing)
 
 
 
