@@ -10,7 +10,7 @@ My goal is to develop testing knowlage and technical skills. On this site I woul
 * [Postman](https://www.postman.com/) - Testing tool for REST API
 * [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
 * [XMind](https://www.xmind.net/) - Mind mapping softwares
-* [POM Builder](https://chrome.google.com/webstore/detail/pom-builder-%E2%80%93-auto-genera/akcejfbfkkjnghlfngighgncolfaghco) - Auto-generate CSS/XPatrh locators
+* [POM Builder](https://chrome.google.com/webstore/detail/pom-builder-%E2%80%93-auto-genera/akcejfbfkkjnghlfngighgncolfaghco) - Auto-generate CSS/XPath locators
 * [Bug Mangnet](https://chrome.google.com/webstore/detail/pom-builder-%E2%80%93-auto-genera/akcejfbfkkjnghlfngighgncolfaghco) - Exploratory testing assistant for Chrome and Firefox
 * [Figma](https://www.figma.com/) - Digital design and prototyping tool 
 
