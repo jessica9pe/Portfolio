@@ -46,7 +46,7 @@ Junior:
 
 # My bug reports examples
 * [Bugs report for skleptest.pl (Excel)](https://docs.google.com/spreadsheets/d/1Z09mu0vG2Y3aCGlb-_B8dLA-Gu6cZysSaEFsHPKQgH8/edit?usp=sharing)
-* Bugs report for automationpractice.com (Jira) - in progress
+* [Bugs report for automationpractice.com (Jira)](https://drive.google.com/file/d/1QqMLZP4DOYRIDTbNM6YTvHzBN6Fc8-FS/view?usp=sharing)
 
 # My mind map examples
 * [Mind map for skleptest.pl (XMind)](https://drive.google.com/file/d/1soEgMBl_t4VwxeUmYz-YYDtTjYfr8RxO/view?usp=sharing)
