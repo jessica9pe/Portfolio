@@ -54,6 +54,9 @@ Junior:
 # My automated test scripts
 * [Automated test scripts (Selenium IDE) for saucedemo.com](https://drive.google.com/file/d/15LpK7jS_CjTt0KXchOZjDsLYQhcjzI7W/view?usp=sharing) - there is a file for download
 
+# My exploratory test report examples
+* [Exploratory test report for Cherry-IT Projects](https://drive.google.com/file/d/1AW1WHrwk-bTMNcYl7ywA4RN91HWxUwYc/view?usp=sharing)
+
 
 
 
