@@ -23,7 +23,8 @@ Junior:
 * Creating test cases
 * Reporting bugs
 * MS SQL
-* HTML/CSS (learning)
+* HTML
+* CSS
 
 # Courses
 * Akademia Testowania - Testuj.pl
