@@ -43,6 +43,7 @@ Junior:
 # My scenario and test cases examples
 * [Test cases for skleptest.pl (Excel)](https://docs.google.com/spreadsheets/d/1Z09mu0vG2Y3aCGlb-_B8dLA-Gu6cZysSaEFsHPKQgH8/edit?usp=sharing)
 * [Scenario and test cases for reserved.com (TestLink)](https://drive.google.com/file/d/14R_rPSqYzH-Yavt79rvXamh23rsc2m_W/view?usp=sharing)
+* [Scenario and test cases for zalando.com (Jira/X-Ray)](https://drive.google.com/file/d/1X8NQLD7d6ojI63fplCG02lnPetbQ4pBh/view?usp=sharing)
 
 # My bug reports examples
 * [Bugs report for skleptest.pl (Excel)](https://docs.google.com/spreadsheets/d/1Z09mu0vG2Y3aCGlb-_B8dLA-Gu6cZysSaEFsHPKQgH8/edit?usp=sharing)
